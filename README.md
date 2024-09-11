@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that involve backend development or coding challenges.
 - 📫 How to reach me: [shreya131268@gmail.com]
 -  😄 Pronouns: She/Her
--⚡ Fun fact: I love cracking logic puzzles and coding challenges in my free time!
+-  ⚡ Fun fact: I love cracking logic puzzles and coding challenges in my free time!
 
 <!---
 ssshreya24/ssshreya24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
